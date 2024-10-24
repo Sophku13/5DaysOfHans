@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/B/D0/47PXUBWBUXPV95S4OEQ7HH.uasset",
 				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/__ExternalObjects__/Maps/FirstPersonMap/8/U2/QFY08NKGA65C1FFKKJWD8Q.uasset",
 				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/__ExternalObjects__/Maps/FirstPersonMap/8/OI/6N75N5Q9KODWEA7ABJPWUU.uasset",
@@ -214,6 +215,9 @@
 				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/TestMaps/FMOH_BaseRoom4.umap",
 				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Character/Input/Actions/IA_Interact.uasset",
 				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_QuestButtonPrototype.uasset",
+=======
+				"C:/MDH/Projects/2. Project/5DaysOfHans/FMOH/Content/UI/WBP_MainMenu.uasset",
+>>>>>>> Stashed changes
 				"D:/5DaysOfHans/FMOH/Content/Assets/Material/MasterMaterial.uasset",
 				"D:/5DaysOfHans/FMOH/Content/Assets/Material/MasterMaterial_Inst.uasset",
 				"D:/5DaysOfHans/FMOH/Content/Assets/Textures/Wallpaper_01/Wallpaper_baseColor.uasset",
