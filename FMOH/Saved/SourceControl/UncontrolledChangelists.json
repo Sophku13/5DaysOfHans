@@ -5,22 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/A/76/346S6X422VLO5CTX96R1FL.uasset",
-				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/5/PW/GC84WQXIAZEYRKONWQWGQ5.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_BaseQuestItem.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/FMOH_BaseLevel_P.umap",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_QuestButtonPrototype.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_Room.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_ChapterManager.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_RoomSwitcher.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/TestMaps/FMOH_TestRoom1.umap",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/FMOH_BaseChapter.umap",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/TestMaps/FMOH_TestRoom3.umap",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/TestMaps/FMOH_TestRoom4.umap",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_Chapter.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/BluePrints/Portals/PortalToAnotherLevel/BP_PortalToAnotherLevel.uasset",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Maps/TestMaps/FMOH_TestRoom2.umap",
-				"C:/Users/leote/Projects/5DaysOfHans/FMOH/Content/Mechanics/BaseBlueprints/BP_RoomManager.uasset"
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/Assets/Material/M_PostProcess.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/Assets/Material/MI_PostProcess_Inst.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/1/ES/R3HVRISCHE8XM30JEKTTD2.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/Assets/Material/MI_MasterMaterial_Inst1.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/2/XO/Q10AUO0UEGX415LDWFC0IJ.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/9/LQ/YFERROL6S023SVEQO5J0XH.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/D/K3/W6GEXHU8LPVRP6KNQDCT1S.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/E/6J/RSV366JC45277BELI9ATGA.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/__ExternalActors__/Maps/FirstPersonMap/A/OP/ODP2UJGNZ1P8O0O10QMQBX.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/Assets/Material/PostProcessMaterials/M_PostProcess.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/Assets/Material/PostProcessMaterials/MI_PostProcess_Inst.uasset",
+				"C:/Users/vladi/Documents/NewLightProject/5DaysOfHans/FMOH/Content/Assets/Material/MasterMaterial.uasset"
 			]
 		}
 	]
