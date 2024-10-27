@@ -78,12 +78,4 @@ Intermediate/*
 Plugins/*/Intermediate/*
 DerivedDataCache/*
 
-FMOH/Intermediate/CachedAssetRegistry_0.bin
-FMOH/Saved/Config/CrashReportClient/UECC-Windows-09F1617E40BD52CFAF90309DFCA0647A/CrashReportClient.ini
-FMOH/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-FMOH/Saved/Logs/FMOH-backup-2024.10.13-13.14.21.log
-FMOH/Saved/Logs/FMOH.log
-FMOH/Saved/Telemetry/Telemetry.json
-FMOH/Saved/Logs
-FMOH/Saved/Telemetry
-FMOH/Saved/Config
+FMOH/Saved/
