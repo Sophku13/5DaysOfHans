@@ -84,6 +84,6 @@ FMOH/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 FMOH/Saved/Logs/FMOH-backup-2024.10.13-13.14.21.log
 FMOH/Saved/Logs/FMOH.log
 FMOH/Saved/Telemetry/Telemetry.json
-/FMOH/Saved/Logs
-/FMOH/Saved/Telemetry
-/FMOH/Saved/Config
+FMOH/Saved/Logs
+FMOH/Saved/Telemetry
+FMOH/Saved/Config
